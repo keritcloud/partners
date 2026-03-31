@@ -14,7 +14,6 @@ Their content often features guides on hosting Discord bots and tools like Kerit
 
 **Links:**  
 🔗 YouTube — https://youtube.com/@theaxes ([The Axes on YouTube](https://youtube.com/@theaxes))  
-<img width="1363" height="213" alt="image" src="https://github.com/user-attachments/assets/5836e369-a83b-412a-a292-b77ff63c6369" />
 
 ---
 
