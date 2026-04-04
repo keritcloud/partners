@@ -1,72 +1,66 @@
+# 🤝 Kerit Cloud Partners & Featured Projects
 
-# Kerit Cloud Partners Info
-
-This repository contains information about creators, bots, and community partners related to **Kerit Cloud hosting**, Discord music bots, and content creators using Kerit Cloud services for Lavalink, bot hosting, and community tools.
-
----
-
-## 📌 Partners & Featured Projects
-
-### 🎥 **TheAxes** — YouTube Content Creator
-
-**TheAxes** is a YouTube creator who posts videos about Discord hosting, bots, AI, and related tutorials.  
-Their content often features guides on hosting Discord bots and tools like Kerit Cloud, as well as community tech content. 
-
-**Links:**  
-🔗 YouTube — https://youtube.com/@theaxes ([The Axes on YouTube](https://youtube.com/@theaxes))  
+This repository showcases the creators, developers, and communities that power their projects using **Kerit Cloud**—the premier hosting solution for high-performance Lavalink nodes, Discord bots, and community tools.
 
 ---
 
-### 🎮 **Genichiroplays** — Gaming & Community Content
+## 🎥 Content Creator Partners
 
-**Genichiroplays** is a YouTube gaming content channel. While primarily a gaming channel, it’s included here as a community partner given shared engagement with Discord and streaming audiences.
+### **TheAxes** — Tech & Hosting Tutorials
+**TheAxes** is a leading YouTube creator focusing on Discord infrastructure, AI integration, and hosting tutorials. Their content provides deep dives into setting up bots and optimizing tools like Kerit Cloud for maximum performance.
 
-**Links:**  
-🔗 YouTube — https://youtube.com/@genichiroplays ([Genichiro on YouTube](https://youtube.com/@genichiroplays))  
-
-
----
-
-### 🤖 **Musico** — Discord Music Bot
-
-**Musico** is a Discord music bot that integrates Lavalink to deliver music playback and features on servers. It is configurable.  
-
-Musico is useful for communities looking to add music playback with Lavalink support, and pairs well with Kerit Cloud hosted Lavalink nodes.
-
-**Links:**  
-🔗 Discord Bot — https://top.gg/bot/1125104541394804827  
-🔗 Github — https://github.com/Official-Unknown-Projects/Musico
-
-*Features may include music search, playback, queues, filters, and playlist management.*
-
-
+* **Focus:** Discord Hosting, AI Tools, Technical Tutorials.
+* **YouTube:** [TheAxes on YouTube](https://youtube.com/@theaxes)
 
 ---
 
-## 🌐 About Kerit Cloud
+### **Genichiroplays** — Gaming & Community
+**Genichiroplays** is a dedicated gaming and streaming channel. As a community partner, they bridge the gap between high-level gaming content and the Discord communities that support them.
 
-**Kerit Cloud** is a cloud hosting provider focusing on Discord bots, Lavalink nodes, Minecraft servers, and web applications. It offers fast deployment, high performance, global infrastructure, and developer‑friendly tools. 
-
-Kerit Cloud is trusted by developers to run:
-
-- Discord bots (Python, Node.js, Java)  
-- Lavalink music nodes  
-- Minecraft servers  
-- Web and custom applications
-
-Visit: https://kerit.cloud/ ([Kerit Cloud](https://kerit.cloud/))
+* **Focus:** Gaming Content, Community Engagement, Live Streaming.
+* **YouTube:** [Genichiroplays on YouTube](https://youtube.com/@genichiroplays)
 
 ---
 
-## 📚 Resources
+## 🎵 Discord Music Partners
 
-Useful links related to Kerit Cloud hosting.
+### **Musico** — Professional Lavalink Music Bot
+**Musico** (By Dame) is a high-performance Discord music solution built for stability. By leveraging **Kerit Cloud’s Premium Lavalink Nodes**, Musico delivers a lag-free, high-fidelity audio experience for thousands of listeners with 30+ playback options.
 
-- 🔗 **Kerit Cloud** — https://kerit.cloud/  
-
+* **Lavalink Optimized:** Low-latency playback engineered for large servers.
+* **Smart Filtering:** Includes Bassboost, Nightcore, and Vaporwave modes.
+* **Web Dashboard:** Manage queues via a sleek web-player interface.
+* **Links:** [Website](https://musicobot.com/) | [Invite Bot](https://musicobot.com/invite) | [Top.gg](https://top.gg/bot/1125104541394804827) | [GitHub](https://github.com/Official-Unknown-Projects/Musico)
 
 ---
 
+### **Kennyy** — Multi-Source Streaming Bot
+**Kennyy** (by konnyoung) transforms Discord servers into high-end music hubs. Lavalink Nodes Hosted on Kerit Cloud, it features lightning-fast response times and an intuitive user experience.
 
+* **Universal Search:** Support for Spotify, SoundCloud, and YouTube and 30+ sources.
+* **Intelligent Matching:** Seamlessly converts Spotify links to high-quality audio streams.
+* **Modern Controls:** Fully optimized for Discord Slash Commands.
+* **Links:** [Website](https://kennyy.com.br/) | [Invite Bot](https://discord.com/oauth2/authorize?client_id=920133124095098881) | [Top.gg](https://top.gg/bot/920133124095098881)
 
 ---
+
+## 🌐 Powered by Kerit Cloud
+
+**Kerit Cloud** is a specialized hosting provider designed for modern developers. From high-bitrate Lavalink nodes to scalable Minecraft servers, we provide the infrastructure that keeps your project online 24/7.
+
+### **Our Infrastructure Supports:**
+* 🚀 **Discord Bots:** Full support for Node.js, Python, and Java environments.
+* 🔊 **Lavalink Nodes:** High-performance audio hosting with minimal jitter.
+* 🎮 **Gaming:** Low-latency Minecraft and game server hosting.
+* 💻 **Web Apps:** Fast deployment for custom web applications.
+
+**Start Hosting Today:** [kerit.cloud](https://kerit.cloud/)
+
+---
+
+## 📚 Resources & Support
+
+* 🔗 **Official Website:** [https://kerit.cloud/](https://kerit.cloud/)
+
+---
+*© 2026 Kerit Cloud - Performance Hosting for Modern Communities.*
